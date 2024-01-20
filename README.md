@@ -2,7 +2,7 @@
 
 Although a Tic-Tac-Toe project might seem somewhat minuscule to the average person,
 
-I decided to use this project to hone my skils in various programming concepts regarding 
+I decided to use this project to hone my skills in various programming concepts regarding 
 
 components, conditionals, and states. 
 
