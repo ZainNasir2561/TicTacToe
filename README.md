@@ -14,6 +14,6 @@ And if you'd like to run this code for yourself,
 simply, run npm install!
 
 
-#Preview
+# Preview
 
-![image](https://github.com/ZainNasir2561/TicTacToe/assets/102922448/97a19fec-7b53-457d-8c4a-234e6ddf5bde)
+![Screenshot (36)](https://github.com/ZainNasir2561/TicTacToe/assets/102922448/4c33ac6f-c97c-4be9-8556-64d8d6dd099b)
